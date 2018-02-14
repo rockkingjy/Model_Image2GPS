@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to 
+Type=Link
+URL=file:///media/enroutelab/sdd/mycodes/caffe-posenet/posenet/scripts/create_posenet_lmdb_dataset.py
+Icon=text-x-python
